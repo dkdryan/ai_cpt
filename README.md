@@ -1,3 +1,8 @@
+---
+title: Change the chunk style
+output: html_document
+---
+
 ```{r df-drop-ok, class.source="bg-success"}
 mtcars[1:5, "mpg", drop = FALSE]
 ```
