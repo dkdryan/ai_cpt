@@ -1,11 +1,7 @@
----
-title: Change the chunk style
-output: html_document
----
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #d6e9c6;">
+I am a success message
+</div>
 
-```{r df-drop-ok, class.source="bg-success"}
-mtcars[1:5, "mpg", drop = FALSE]
-```
 
 ### Artificial Intelligence in Clinical Pharmacology: A Primer 
 
