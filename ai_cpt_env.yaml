@@ -1,0 +1,17 @@
+name: ai_cpt
+channels:
+  - conda-forge
+dependencies:
+  - python==3.10
+  - pandas
+  - numpy==1.23.0
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - shap
+  - xgboost
+  - imbalanced-learn
+  - ca-certificates
+  - certifi
+  - openssl
+prefix: /usr/local/Caskroom/miniforge/base/envs/ai_cpt
