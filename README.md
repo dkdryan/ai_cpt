@@ -8,7 +8,7 @@ This model is purely for educational purposes and is not intended for clinical p
 
 Coding notebook in python is available: https://github.com/dkdryan/ai_cpt/blob/main/ai_development.ipynb
 
-To replicate the python package enviroment, to ensure that the notebook runs successfully, use the conda environment file. To set up the conda environment, run the following on the the command line:
+To replicate the python package enviroment and ensure that the notebook runs successfully, use the provided conda environment file `ai_cpt_env.yaml`. To set up the conda environment, run the following on the the command line, after installing conda:
 
 ```bash
 conda env create --file ai_cpt_env.yaml
