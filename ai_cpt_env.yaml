@@ -14,4 +14,3 @@ dependencies:
   - ca-certificates
   - certifi
   - openssl
-prefix: /usr/local/Caskroom/miniforge/base/envs/ai_cpt
